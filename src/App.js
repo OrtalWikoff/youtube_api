@@ -34,7 +34,7 @@ function App() {
     params: {
       part: "snippet",
       maxResults: 5, 
-      key: "AIzaSyB9X2AaqoyspeeyASp_vofZ5t6MRvM_zCY",
+      key: "put your api key here",
       q: searchItem, 
     }
   });
